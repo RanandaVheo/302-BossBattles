@@ -1911,7 +1911,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: deb748f2d1b292e4fb0e2c521676a016, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  footLeft: {fileID: 2760566645201178654}
+  footRight: {fileID: 118924489762941135}
   speed: 5
+  walkSpreadX: 0.2
 --- !u!1 &6527772441364093491
 GameObject:
   m_ObjectHideFlags: 0
